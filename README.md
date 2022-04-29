@@ -15,6 +15,14 @@
 - Front-end - [Next.js](https://nextjs.org/) [Bootstrap](https://getbootstrap.com/) 
 - Base de datos: [Sequalize](https://sequelize.org/)
 
+## Tutoriales 
+- Node js https://www.w3schools.com/nodejs/ https://m.youtube.com/watch?v=BhvLIzVL8_o
+- Redux https://m.youtube.com/playlist?list=PLL_H5w4KA8dNo_u3fhKcr1aC8dqAqwWiV
+- Nextjs https://m.youtube.com/watch?v=Tn6QYliFBcs
+- Sequalize https://m.youtube.com/watch?v=60wglb8OZRQ
+
+
+
 ## Authors 🌟
 * [Matias López](https://www.linkedin.com/in/matias-l%C3%B3pez-777796194/)
 *
