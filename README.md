@@ -1,5 +1,8 @@
 # Proyecto Hire-inator 👥🕵️‍♂️
 
+## Participantes 👶
+- Juniors y trainees de America latina con muchas ganas de aprender y en busqueda de sus primeras experiencias laborales.
+
 ## Proposito 📄
 - Ayudar a los recruter IT a encontrar los candidatos correctos
 - Disminuir el tiempo de busqueda de trabajo de los candidatos
